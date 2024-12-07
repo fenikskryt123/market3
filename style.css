@@ -40,7 +40,10 @@ nav {
     display: block;
 }
 .nav-link:hover{
-  color: black;
+     transform: translate(0px, 0px);
+ transition: 1s;
+  color: white;
+   background-color:black ;
 }
 
 h1 {
